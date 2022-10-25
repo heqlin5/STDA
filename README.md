@@ -5,7 +5,7 @@ Official PyTorch implementation of Spatial and Temporal Dual-Attention for Unsup
 
 
 ## Overview
-![Overview](figs/STDA.png)
+![Overview](figs/overview.png)
 
 ## Results
 ![Results](figs/results.png)
